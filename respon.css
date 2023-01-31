@@ -1,0 +1,221 @@
+@media (min-width: 320px) and (max-width: 480px){
+    .navbar {
+        width: 80%;
+        display: none;
+    }
+    .logo {
+        width: 30%;
+    }
+    .logo img {
+        width: 50%;
+        margin-top: 10px;
+    }
+    .sp {
+        color: #f1f1f1;
+        /* margin-left: -100px; */
+        margin-top: 10px;
+        display: block;
+    }
+    .header {
+        width: 100%;
+        background-color: rgb(8, 8, 8);
+        margin: auto;
+        position: sticky;
+        top: 0;
+        box-shadow: #eee9e9;
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .sp {
+        color: #f1f1f1;
+        margin-right: 55%;
+        margin-top: 5px;
+        display: block;
+    }
+    .overlay-content {
+        position: relative;
+        top: 10%;
+        width: 100%;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .main {
+        width: 80%;
+        background-color: aliceblue;
+        margin: auto;
+    }
+    .main {
+        width: 80%;
+        background-color: aliceblue;
+        margin: auto;
+    }
+    .container {
+        width: 100%;
+        display: flex;
+        padding: 0px;
+        border: 2px solid rgb(6, 43, 250);
+        flex-direction: column;
+    }
+    .container-left {
+        width: 90%;
+        padding: 10px;
+    }
+    .container-right {
+        width: 100%;
+    }
+    .title1 {
+        text-align: center;
+        font-size: 20px;
+        color: blue;
+    }
+    .dis1 {
+        font-size: 15px;
+        padding: 0 5px;
+    }
+    .title {
+        text-align: center;
+        font-size: 20px;
+    }
+    .footer {
+        width: 100%;
+        margin: auto;
+        /* padding: 50px; */
+        color: #0c0a0a;
+        display: flex;
+        background-color: rgb(253, 238, 238);
+        flex-direction: column;
+    }
+    .foot-A {
+        width: 100%;
+        padding: 10px;
+    }
+    .foot-B {
+        width: 100%;
+        padding: 0 10px;
+    }
+    .foot-C {
+        width: 90%;
+        padding: 10px;
+    }
+    .foot-D {
+        width: 100%;
+        padding: 10px;
+    }
+}
+@media (min-width: 481px) and (max-width: 767px){
+    .navbar {
+        width: 80%;
+        display: none;
+    }
+    .logo {
+        width: 30%;
+    }
+    .logo img {
+        width: 40%;
+        margin-top: 10px;
+    }
+    .sp {
+        color: #f1f1f1;
+        /* margin-left: -100px; */
+        margin-top: 10px;
+        display: block;
+    }
+    .header {
+        width: 100%;
+        background-color: rgb(8, 8, 8);
+        margin: auto;
+        position: sticky;
+        top: 0;
+        box-shadow: #eee9e9;
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .sp {
+        color: #f1f1f1;
+        margin-right: 55%;
+        margin-top: 5px;
+        display: block;
+    }
+    .overlay-content {
+        position: relative;
+        top: 10%;
+        width: 100%;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .main {
+        width: 80%;
+        background-color: aliceblue;
+        margin: auto;
+    }
+    .main {
+        width: 80%;
+        background-color: aliceblue;
+        margin: auto;
+    }
+    .container {
+        width: 100%;
+        display: flex;
+        padding: 0px;
+        border: 2px solid rgb(6, 43, 250);
+        flex-direction: column;
+    }
+    .container-left {
+        width: 90%;
+        padding: 10px;
+    }
+    .container-right {
+        width: 100%;
+    }
+    .title1 {
+        text-align: center;
+        font-size: 20px;
+        color: blue;
+    }
+    .dis1 {
+        font-size: 15px;
+        padding: 0 5px;
+    }
+    .title {
+        text-align: center;
+        font-size: 20px;
+    }
+    .footer {
+        width: 100%;
+        margin: auto;
+        /* padding: 50px; */
+        color: #0c0a0a;
+        display: flex;
+        background-color: rgb(253, 238, 238);
+        flex-direction: column;
+    }
+    .foot-A {
+        width: 100%;
+        padding: 10px;
+    }
+    .foot-B {
+        width: 100%;
+        padding: 0 10px;
+    }
+    .foot-C {
+        width: 90%;
+        padding: 10px;
+    }
+    .foot-D {
+        width: 100%;
+        padding: 10px;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 1024px){
+    ul li a{
+        color: aliceblue;
+        text-decoration: none;
+        font-size: 12px;
+    }
+    ul li{
+        display: inline-block;
+        padding:0px 10px;
+    }
+}
+/* @media (min-width: 1025px) and (max-width: 1280px) */
